@@ -64,4 +64,6 @@ public class FadePanel : MonoBehaviour {
 		col.b += increment * Time.deltaTime;
 		return col;
 	}
+
+	//need to fade music too
 }
