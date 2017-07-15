@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: bdaf7b57725464b6cab1a1e3a535c635
+timeCreated: 1499137201
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Castle of Stones
+  fontNames:
+  - Castle of Stones
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
