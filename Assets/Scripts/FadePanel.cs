@@ -43,6 +43,10 @@ public class FadePanel : MonoBehaviour {
 		}
 	
 		img.color = newColor;
+		//Don't need. Just set image to not be raycast target
+		// if (timePassed >= (fadeTimeSeconds + fadeStartDelaySeconds)){
+		// 	Destroy(gameObject);
+		// }
 	}
 
 	Color UpdateAlpha (Color col, float increment) {
