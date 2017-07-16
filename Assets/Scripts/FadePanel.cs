@@ -31,6 +31,7 @@ public class FadePanel : MonoBehaviour {
 		img.color = fadeStartColor;
 		newColor = img.color;
 	}
+
 	
 	// Update is called once per frame
 	void Update () {
