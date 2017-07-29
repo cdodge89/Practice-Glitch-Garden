@@ -35,4 +35,7 @@ public class MusicManager : MonoBehaviour {
 		
 	}
 	//need to add fade music too
+	public void ChangeVolume(float vol){
+		audioSource.volume = vol;
+	}
 }
