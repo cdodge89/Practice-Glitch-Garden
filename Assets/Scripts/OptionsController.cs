@@ -34,5 +34,4 @@ public class OptionsController : MonoBehaviour {
 		PlayerPrefsManager.SetMasterVolume(DEFAULT_VOL);
 		volumeSlider.value = DEFAULT_VOL;
 		diffSlider.value = DEFAULT_DIFF;
-	}
-}
+	}}
